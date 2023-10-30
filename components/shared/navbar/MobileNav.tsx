@@ -67,7 +67,7 @@ const MobileNav = () => {
                             alt="DevFlw Logo"
                         />
                         <p className="h2-bold text-dark100_light900 font-spaceGrotesk">
-                            Dev <span className="text-primary-500">OverFlow</span>
+                            Dev<span className="text-primary-500">OverFlow</span>
                         </p>
                     </Link>
                     <div className="">
